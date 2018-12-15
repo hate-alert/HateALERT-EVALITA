@@ -1,8 +1,8 @@
 # AMI-EVALITA2018
 Code for replicating results of team 'hateminers' at EVALITA-2018 for AMI task. We have explained the model details in our paper ``Hateminers : Detecting Hate speech against Women''
 
-##Directory structure
-
+## Directory structure
+```
 root
 |
 |-----AMI_data (data needs to be kept here) 
@@ -18,7 +18,7 @@ root
 
 
 
-
+```
 ## Predicitons
 
 

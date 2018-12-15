@@ -26,8 +26,9 @@ clf_task3=joblib.load('taskB2/'+model_for_taskB2)
 select_task1=joblib.load('taskA/'+select_featue_for_taskA)
 select_task2=joblib.load('taskB1/'+select_featue_for_taskB1)
 select_task3=joblib.load('taskB2/'+select_featue_for_taskB2)
-### assuming x to be a feature vector 
-###models of Task B are only done when Task A model predicts the given text as misogynous. 
+```
+Assuming x to be a feature vector.Models of Task B are only done when Task A model predicts the given text as misogynous. 
+```
 x=x.reshape(1,-1)
 temp=x
 temp=select_task1.transform(temp)
@@ -43,5 +44,5 @@ if(int(predict1[0])!=0):
 else:
 	list_2.append(0)
 	list_3.append(0)
-
 ```
+More details can be found in [here](Classifier/Submit.ipynb)

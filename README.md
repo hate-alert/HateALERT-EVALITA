@@ -7,35 +7,25 @@ root
 |
 |-----AMI_data (data needs to be kept here) 
 |
-|-----CLASSIFIER
-		|
-		|-----taskA(models and feature selection methods for task A- misogynous or not)
-		|
-		|-----taskB1(models and features selection methods for task B1- misogyny category )
-		|
-		|-----taskB2(models and features selection methods for task B2- misogyny category )
+|-----Classifier
+	|
+	|-----taskA(models and feature selection methods for task A- misogynous or not)
+	|
+	|-----taskB1(models and features selection methods for task B1- misogyny category )
+	|
+	|-----taskB2(models and features selection methods for task B2- misogyny category )
 		
-
-
-
 ```
 ## Predicitons
-
+In order to make the predicition feature vector consisting tfidf-vectors , glove embeddings , google-universal-encoding should be prepared.
 
 ```
-###loading the tfidf word vectors
-with open('tfidf_word_vectorizer.pk', 'rb') as fout:
-         word_vectorizer=pickle.load(fout)
-###loading the tfidf char vectors
-with open('tfidf_char_vectorizer.pk', 'rb') as fout:
-        char_vectorizer=pickle.load(fout)
-
-
 clf_task1=joblib.load('taskA/'+model_for_taskA)
 clf_task2=joblib.load('taskB1/'+model_for_taskB1)
 clf_task3=joblib.load('taskB2/'+model_for_taskB2)
 select_task1=joblib.load('taskA/'+select_featue_for_taskA)
 select_task2=joblib.load('taskB1/'+select_featue_for_taskB1)
 select_task3=joblib.load('taskB2/'+select_featue_for_taskB2)
+
 
 ```

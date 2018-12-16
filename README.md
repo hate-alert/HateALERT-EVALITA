@@ -46,3 +46,7 @@ else:
 	list_3.append(0)
 ```
 More details can be found in [here](Classifier/Submit_test.ipynb)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details

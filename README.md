@@ -45,4 +45,4 @@ else:
 	list_2.append(0)
 	list_3.append(0)
 ```
-More details can be found in [here](Classifier/Submit.ipynb)
+More details can be found in [here](Classifier/Submit_test.ipynb)

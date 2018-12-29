@@ -1,5 +1,6 @@
 # AMI-EVALITA2018
-Code for replicating results of team 'hateminers' at EVALITA-2018 for 'Automatic Misogyny Identification' task. We have explained the model details in our paper ``[Hateminers : Detecting Hate speech against Women](https://arxiv.org/abs/1812.06700)''
+Code for replicating results of team 'hateminers' at EVALITA-2018 for 'Automatic Misogyny Identification' task. We have explained the model details in our paper ''[Hateminers : Detecting Hate speech against Women](https://arxiv.org/abs/1812.06700)''.
+We came **First for the English Subtask A and Fifth for the English Subtask B.**
 
 ## Directory structure
 ```

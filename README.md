@@ -48,6 +48,16 @@ else:
 ```
 More details can be found in [here](Classifier/Submit_test.ipynb)
 
+## Please cite our paper in any published work that uses our model.
+```
+@article{saha2018hateminers,
+  title={Hateminers: Detecting Hate speech against Women},
+  author={Saha, Punyajoy and Mathew, Binny and Goyal, Pawan and Mukherjee, Animesh},
+  journal={arXiv preprint arXiv:1812.06700},
+  year={2018}
+}
+```
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details

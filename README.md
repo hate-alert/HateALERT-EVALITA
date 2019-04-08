@@ -2,6 +2,17 @@
 Code for replicating results of team 'hateminers' at EVALITA-2018 for 'Automatic Misogyny Identification' task. We have explained the model details in our paper ''[Hateminers : Detecting Hate speech against Women](https://arxiv.org/abs/1812.06700)''.
 We came **First for the English Subtask A and Fifth for the English Subtask B.**
 
+## Please cite our paper in any published work that uses our model.
+
+```
+@article{saha2018hateminers,
+  title={Hateminers: Detecting Hate speech against Women},
+  author={Saha, Punyajoy and Mathew, Binny and Goyal, Pawan and Mukherjee, Animesh},
+  journal={arXiv preprint arXiv:1812.06700},
+  year={2018}
+}
+```
+
 ## Directory structure
 ```
 root
@@ -48,15 +59,6 @@ else:
 ```
 More details can be found in [here](Classifier/Submit_test.ipynb)
 
-## Please cite our paper in any published work that uses our model.
-```
-@article{saha2018hateminers,
-  title={Hateminers: Detecting Hate speech against Women},
-  author={Saha, Punyajoy and Mathew, Binny and Goyal, Pawan and Mukherjee, Animesh},
-  journal={arXiv preprint arXiv:1812.06700},
-  year={2018}
-}
-```
 
 ## License
 

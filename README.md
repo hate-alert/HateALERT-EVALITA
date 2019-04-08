@@ -4,6 +4,7 @@ We came **First for the English Subtask A and Fifth for the English Subtask B.**
 
 ## Please cite our paper in any published work that uses our model.
 
+> Saha, P., Mathew, B., Goyal, P. & Mukherjee, A., (2018). Hateminers: Detecting Hate speech against Women. _arXiv preprint arXiv:1812.06700_.
 ```
 @article{saha2018hateminers,
   title={Hateminers: Detecting Hate speech against Women},

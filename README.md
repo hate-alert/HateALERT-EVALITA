@@ -1,5 +1,5 @@
 [![HitCount](http://hits.dwyl.io/punyajoy/Hateminers-EVALITA.svg)](http://hits.dwyl.io/punyajoy/Hateminers-EVALITA)
-
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hateminers-detecting-hate-speech-against/hate-speech-detection-on-automatic)](https://paperswithcode.com/sota/hate-speech-detection-on-automatic?p=hateminers-detecting-hate-speech-against)
 # AMI-EVALITA2018
 
 Code for replicating results of team 'hateminers' at EVALITA-2018 for 'Automatic Misogyny Identification' task. We have explained the model details in our paper ''[Hateminers : Detecting Hate speech against Women](https://arxiv.org/abs/1812.06700)''.

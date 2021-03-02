@@ -2,7 +2,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hateminers-detecting-hate-speech-against/hate-speech-detection-on-automatic)](https://paperswithcode.com/sota/hate-speech-detection-on-automatic?p=hateminers-detecting-hate-speech-against)
 # AMI-EVALITA2018
 
-Code for replicating results of team 'hateminers' at EVALITA-2018 for 'Automatic Misogyny Identification' task. We have explained the model details in our paper ''[Hateminers : Detecting Hate speech against Women](https://arxiv.org/abs/1812.06700)''.
+Code for replicating results of team 'hateminers' ( now hate-alert) at EVALITA-2018 for 'Automatic Misogyny Identification' task. We have explained the model details in our paper ''[Hateminers : Detecting Hate speech against Women](https://arxiv.org/abs/1812.06700)''.
 We came **First for the English Subtask A and Fifth for the English Subtask B.**
 
 ## Please cite our paper in any published work that uses our model.
